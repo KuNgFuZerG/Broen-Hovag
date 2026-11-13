@@ -1,0 +1,6 @@
+{
+  "summary":  "Implementation plan for aligning the three top-row pills (two-line stacked Date Pill, Place Badge, and RSVP/Calendar action button) in the Upcoming Events list to uniform height (44px) and top-edge alignment while preserving full-width event text below.",
+  "updatedAt":  "2026-11-13T00:31:48.517477968Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}

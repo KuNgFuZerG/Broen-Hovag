@@ -1,0 +1,6 @@
+{
+  "name": "Høvåg Menighet",
+  "description": "Menighets-app for Høvåg menighet (Kirke, Bedehus, PUSH) med arrangementer, kunngjøringer, tjenestelister, vaktbytte, diakoni/omsorg, bønn og fellesskap.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
